@@ -10,7 +10,7 @@
         "Yangtze River",
         "Mississippi River"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
         "Indian Ocean",
         "Southern Ocean"
       ],
-      "answer": 4
+      "answer": 1
     },
     {
       "id": 3,
@@ -35,16 +35,16 @@
       "id": 4,
       "category_id": 1,
       "question": "Which city is the capital of Canada?",
-      "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
-      "answer": 3
+      "options": [ "Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "answer": 2
     },
     {
       "id": 5,
       "category_id": 1,
       "question": "Which is the largest desert in the world?",
       "options": [
-        "Sahara Desert",
         "Arabian Desert",
+        "Sahara Desert",
         "Gobi Desert",
         "Kalahari Desert"
       ],
@@ -61,7 +61,7 @@
       "id": 7,
       "category_id": 1,
       "question": "Which country is known for the Amazon Rainforest?",
-      "options": ["Brazil", "Australia", "Canada", "India"],
+      "options": ["Australia", "Canada","Brazil", "India"],
       "answer": 3
     },
     {
@@ -96,7 +96,7 @@
       "id": 12,
       "category_id": 1,
       "question": "Which country is known for the Taj Mahal?",
-      "options": ["India", "China", "Egypt", "France"],
+      "options": ["China", "India", "Egypt", "France"],
       "answer": 2
     },
     {
@@ -104,14 +104,14 @@
       "category_id": 1,
       "question": "Which is the smallest continent in the world?",
       "options": ["Australia", "Europe", "Antarctica", "South America"],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 14,
       "category_id": 1,
       "question": "Which country is known for the Eiffel Tower?",
       "options": ["France", "Italy", "Germany", "United Kingdom"],
-      "answer": 4
+      "answer": 1
     },
     {
       "id": 15,
