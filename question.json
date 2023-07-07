@@ -1,0 +1,574 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "question": "Which is the longest river in the world?",
+      "options": [
+        "Nile River",
+        "Amazon River",
+        "Yangtze River",
+        "Mississippi River"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "question": "Which is the largest ocean in the world?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Southern Ocean"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "question": "Which country is known as the 'Land Down Under'?",
+      "options": ["Australia", "New Zealand", "South Africa", "Brazil"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "question": "Which city is the capital of Canada?",
+      "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "question": "Which is the largest desert in the world?",
+      "options": [
+        "Sahara Desert",
+        "Arabian Desert",
+        "Gobi Desert",
+        "Kalahari Desert"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "question": "Which is the highest mountain in the world?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Mount Kilimanjaro"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "question": "Which country is known for the Amazon Rainforest?",
+      "options": ["Brazil", "Australia", "Canada", "India"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "question": "Which is the largest country in the world by land area?",
+      "options": ["Russia", "Canada", "China", "United States"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "category_id": 1,
+      "question": "Which continent is known as the 'Dark Continent'?",
+      "options": ["Africa", "Asia", "Europe", "Australia"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "category_id": 1,
+      "question": "Which country is known for the Great Barrier Reef?",
+      "options": ["Australia", "Brazil", "Japan", "Greece"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "category_id": 1,
+      "question": "Which is the largest continent in the world?",
+      "options": ["Asia", "Africa", "North America", "Europe"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "question": "Which country is known for the Taj Mahal?",
+      "options": ["India", "China", "Egypt", "France"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "question": "Which is the smallest continent in the world?",
+      "options": ["Australia", "Europe", "Antarctica", "South America"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "question": "Which country is known for the Eiffel Tower?",
+      "options": ["France", "Italy", "Germany", "United Kingdom"],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "category_id": 1,
+      "question": "Which is the deepest ocean in the world?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Southern Ocean"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "category_id": 1,
+      "question": "Which is the largest lake in Africa?",
+      "options": [
+        "Lake Victoria",
+        "Lake Tanganyika",
+        "Lake Malawi",
+        "Lake Chad"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "category_id": 1,
+      "question": "Which country is known for the Pyramids of Giza?",
+      "options": ["Egypt", "Greece", "Mexico", "China"],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "category_id": 1,
+      "question": "Which is the largest city in the United States?",
+      "options": ["New York City", "Los Angeles", "Chicago", "Houston"],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "category_id": 1,
+      "question": "Which country is known for the Colosseum?",
+      "options": ["Italy", "Spain", "Greece", "Turkey"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "category_id": 1,
+      "question": "Which is the largest waterfall in the world?",
+      "options": [
+        "Angel Falls",
+        "Niagara Falls",
+        "Victoria Falls",
+        "Iguazu Falls"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 1,
+      "category_id": 2,
+      "question": "What is the purpose of a firewall in computer networks?",
+      "options": [
+        "To protect against malware",
+        "To control network access",
+        "To enhance internet speed",
+        "To encrypt data"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "category_id": 2,
+      "question": "What does HTML stand for inweb development?",
+      "options": [
+        "HyperText Markup Language",
+        "High-Tech Multimedia Language",
+        "Home Text Manipulation Logic",
+        "Hyperlinking and Text Management Language"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "category_id": 2,
+      "question": "What is the purpose of an operating system?",
+      "options": [
+        "To provide power to the computer",
+        "To manage hardware components",
+        "To run applications",
+        "To connect to the internet"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "question": "Which company developed the Windows operating system?",
+      "options": ["IBM", "Apple", "Google", "Microsoft"],
+      "answer": 4
+    },
+    {
+      "id": 5,
+      "category_id": 2,
+      "question": "What is the main purpose of a firewall?",
+      "options": [
+        "To protect against viruses",
+        "To control internet access",
+        "To improve computer performance",
+        "To store data securely"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "category_id": 2,
+      "question": "Which type of memory is non-volatile and retains data even when the power is turned off?",
+      "options": ["ROM", "RAM", "Cache", "Hard Disk"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "question": "What is the role of a CPU in a computer?",
+      "options": [
+        "To store data",
+        "To display graphics",
+        "To perform calculations",
+        "To connect to the internet"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "question": "What is the process of converting source code into machine code called?",
+      "options": ["Execution", "Interpretation", "Compilation", "Debugging"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "category_id": 2,
+      "question": "What is the purpose of a VPN (Virtual Private Network)?",
+      "options": [
+        "To increase computer storage capacity",
+        "To improve internet connectivity",
+        "To provide secure remote access",
+        "To optimize website loading speed"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "category_id": 2,
+      "question": "What is the main function of an operating system?",
+      "options": [
+        "To control hardware components",
+        "To run software applications",
+        "To design computer graphics",
+        "To provide internet connectivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "category_id": 2,
+      "question": "What is cloud computing?",
+      "options": [
+        "Storing data on physical servers",
+        "Accessing files from local storage",
+        "Running applications on a local network",
+        "Storing and accessing data over the internet"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "category_id": 2,
+      "question": "What does the acronym 'URL' stand for?",
+      "options": [
+        "Universal Resource Locator",
+        "Uniform Retrieval Language",
+        "United Resource Library",
+        "User Recognition Link"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "category_id": 2,
+      "question": "What is the purpose of a cache in computer systems?",
+      "options": [
+        "To store user passwords",
+        "To speed up data access",
+        "To encrypt sensitive information",
+        "To block malicious websites"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "category_id": 2,
+      "question": "What is the difference between RAM and ROM?",
+      "options": [
+        "RAM is volatile, while ROM is non-volatile",
+        "RAM is permanent, while ROM is temporary",
+        "RAM is external, while ROM is internal",
+        "RAM is slower, while ROM is faster"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "category_id": 2,
+      "question": "What is the purpose of an SSL certificate on a website?",
+      "options": [
+        "To increase website traffic",
+        "To block spam emails",
+        "To encrypt data transmission",
+        "To optimize search engine ranking"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "category_id": 2,
+      "question": "What is the primary function of an accelerometer in a smartphone?",
+      "options": [
+        "To measure atmospheric pressure",
+        "To track GPS location",
+        "To detect screen touches",
+        "Tomeasure device orientation and motion"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "category_id": 2,
+      "question": "What is the purpose of an IP address?",
+      "options": [
+        "To identify a website",
+        "To secure data transmission",
+        "To manage network traffic",
+        "To store website files"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "category_id": 2,
+      "question": "What is the function of an input device in a computer system?",
+      "options": [
+        "To display output on the screen",
+        "To store data permanently",
+        "To process calculations",
+        "To enter data into the computer"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "category_id": 2,
+      "question": "What is the purpose of a compiler?",
+      "options": [
+        "To optimize computer performance",
+        "To interpret programming languages",
+        "To translate source code into machine code",
+        "To detect and fix software bugs"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "category_id": 2,
+      "question": "What is the role of an operating system in virtualization?",
+      "options": [
+        "To create virtual networks",
+        "To allocate hardware resources",
+        "To develop virtual reality applications",
+        "To analyze website traffic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 1,
+      "category_id": 3,
+      "question": "When did Nepal become a republic country?",
+      "options": ["1951", "1990", "2006", "2008"],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "category_id": 3,
+      "question": "Who was the first Prime Minister of Nepal?",
+      "options": [
+        "Girija Prasad Koirala",
+        "Bishweshwar Prasad Koirala",
+        "Matrika Prasad Koirala",
+        "Tribhuvan Bir Bikram Shah"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "category_id": 3,
+      "question": "Which dynasty ruled Nepal before the Shah dynasty?",
+      "options": [
+        "Malla dynasty",
+        "Rana dynasty",
+        "Thakuri dynasty",
+        "Shakya dynasty"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "category_id": 3,
+      "question": "Who is considered the founder of modern Nepal?",
+      "options": [
+        "Prithvi Narayan Shah",
+        "Birendra Bir Bikram Shah",
+        "Gyanendra Bir Bikram Shah",
+        "Mahendra Bir Bikram Shah"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "category_id": 3,
+      "question": "When did Nepal officially adopt the current flag?",
+      "options": ["1959", "1962", "1968", "1991"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "category_id": 3,
+      "question": "Which is the national bird of Nepal?",
+      "options": ["Peacock", "Sparrow", "Dove", "Impeyan pheasant"],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "category_id": 3,
+      "question": "What is the official language of Nepal?",
+      "options": ["Nepali", "Hindi", "English", "Maithili"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "category_id": 3,
+      "question": "Which is the highest mountain in Nepal?",
+      "options": ["Mount Everest", "Kangchenjunga", "Annapurna", "Makalu"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "category_id": 3,
+      "question": "Who composed the national anthem of Nepal?",
+      "options": [
+        "Amir Bhadra",
+        "Gopal Yonjan",
+        "Bakhat Bahadur Budhapirthi",
+        "Chakra Prasad Bastola"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "category_id": 3,
+      "question": "Which festival is celebrated with the flying of kites in Nepal?",
+      "options": ["Dashain", "Tihar", "Holi", "Basant Panchami"],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "category_id": 3,
+      "question": "Which is the largest national park in Nepal?",
+      "options": [
+        "Chitwan National Park",
+        "Sagarmatha National Park",
+        "Langtang National Park",
+        "Bardia National Park"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "category_id": 3,
+      "question": "What is the currency of Nepal?",
+      "options": ["Rupee", "Taka", "Rupiah", "Yen"],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "category_id": 3,
+      "question": "Which is the largest festival celebrated in Nepal?",
+      "options": ["Dashain", "Tihar", "Holi", "Buddha Jayanti"],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "category_id": 3,
+      "question": "Which city is known as the 'City of Temples' in Nepal?",
+      "options": ["Kathmandu", "Pokhara", "Bhaktapur", "Patan"],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "category_id": 3,
+      "question": "Which is the national flower of Nepal?",
+      "options": ["Lotus", "Rhododendron", "Rose", "Marigold"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "category_id": 3,
+      "question": "Which is the largest river in Nepal?",
+      "options": [
+        "Koshi River",
+        "Gandaki River",
+        "Narayani River",
+        "Karnali River"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "category_id": 3,
+      "question": "Who was the first President of Nepal?",
+      "options": [
+        "Ram Baran Yadav",
+        "Bidya Devi Bhandari",
+        "Surya Bahadur Thapa",
+        "Girija Prasad Koirala"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "category_id": 3,
+      "question": "Which is the largest festival celebrated in Nepal?",
+      "options": ["Dashain", "Tihar", "Holi", "Buddha Jayanti"],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "category_id": 3,
+      "question": "What is the official religion of Nepal?",
+      "options": ["Hinduism", "Buddhism", "Islam", "Christianity"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "category_id": 3,
+      "question": "Which is the national sport of Nepal?",
+      "options": ["Dandi Biyo", "Football", "Cricket", "Volleyball"],
+      "answer": 1
+    }
+  ]
+}

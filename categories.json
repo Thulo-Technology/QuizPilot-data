@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Geography"
+    },
+    {
+      "id": 2,
+      "name": "Technology"
+    },
+    {
+      "id": 3,
+      "name": "History"
+    }
+  ]
+}
